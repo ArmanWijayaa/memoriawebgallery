@@ -1,0 +1,25 @@
+.navbar-brand {
+  font-weight: bold;
+  font-size: 1.5rem;
+}
+.nav-link {
+  color: #333 !important;
+  font-weight: 500;
+}
+.nav-link:hover {
+  color: #007bff !important;
+}
+body {
+  background-color: #f8f9fa;
+}
+.sidebar {
+  border-right: 1px solid #ddd;
+}
+.profile-info {
+  text-align: center;
+  margin-bottom: 20px;
+}
+.profile-info img {
+  width: 50px; /* Ukuran foto profil */
+  height: 50px; /* Ukuran foto profil */
+}
